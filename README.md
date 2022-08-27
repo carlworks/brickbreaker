@@ -12,5 +12,5 @@ type *cabal run*
 
 **How to play:**
 
-you will need to destroy the bricks and catch the ball by using a & d or left (<-) or right (->) arrow of the keyboard.
+you will need to destroy the bricks to get points and catch the ball to stay in the game by using a & d or left (<-) or right (->) arrow of the keyboard.
 
