@@ -6,7 +6,7 @@
 Code is based in Haskell and compiled using cabal.
 
 
-**How to compile**
+**How to compile and run**
 
 type *cabal run*
 
